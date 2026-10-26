@@ -1,0 +1,48 @@
+1793041208: mosquitto version 2.1.2 starting
+1793041208: Config loaded from /mosquitto/config/mosquitto.conf.
+1793041208: Bridge support available.
+1793041208: Persistence support available.
+1793041208: TLS support available.
+1793041208: TLS-PSK support available.
+1793041208: Websockets support available.
+1793041208: Opening ipv4 listen socket on port 1883.
+1793041208: Opening ipv6 listen socket on port 1883.
+1793041208: Opening ipv4 listen socket on port 9001.
+1793041208: Opening ipv6 listen socket on port 9001.
+1793041208: mosquitto version 2.1.2 running
+1793041299: New connection from ::1:59526 on port 1883.
+1793041299: New client connected from ::1:59526 as auto-432DD222-9E28-F188-A534-72FFD9CBB5BB (p4, c1, k60).
+1793041419: New connection from 172.18.0.1:34298 on port 1883.
+1793041419: New client connected from 172.18.0.1:34298 as mqttx_9f6ccc6c (p5, c1, k60).
+1793041435: Client auto-432DD222-9E28-F188-A534-72FFD9CBB5BB [::1:59526] disconnected.
+1793041444: New connection from ::1:49582 on port 1883.
+1793041444: New client connected from ::1:49582 as auto-6E15B3C3-2400-0A35-D83B-66BF6298118D (p4, c1, k60).
+1793041524: New connection from ::1:36258 on port 1883.
+1793041524: New client connected from ::1:36258 as auto-10C13B86-166E-EA47-1EA6-1CA22C50E9F8 (p4, c1, k60).
+1793041524: Client auto-10C13B86-166E-EA47-1EA6-1CA22C50E9F8 [::1:36258] disconnected.
+1793041555: New connection from ::1:43410 on port 1883.
+1793041555: New client connected from ::1:43410 as auto-AB4520D5-7496-96DE-E7D0-553DE4671FA0 (p4, c1, k60).
+1793041555: Client auto-AB4520D5-7496-96DE-E7D0-553DE4671FA0 [::1:43410] disconnected.
+1793041586: New connection from ::1:49030 on port 1883.
+1793041586: New client connected from ::1:49030 as auto-F91D8962-242E-C5B7-6F02-45508F96DFF2 (p4, c1, k60).
+1793041586: Client auto-F91D8962-242E-C5B7-6F02-45508F96DFF2 [::1:49030] disconnected.
+1793041625: New connection from ::1:56788 on port 1883.
+1793041625: New client connected from ::1:56788 as auto-390F3D98-3740-FAC2-634B-2CD529A29800 (p4, c1, k60).
+1793041722: Client mqttx_9f6ccc6c [172.18.0.1:34298] disconnected.
+1793041743: New connection from 172.18.0.1:42822 on port 1883.
+1793041743: New client connected from 172.18.0.1:42822 as mqttx_9f6ccc6c (p5, c1, k60).
+1793042429: Client mqttx_9f6ccc6c [172.18.0.1:42822] disconnected: exceeded timeout.
+1793042434: New connection from 172.18.0.1:55120 on port 1883.
+1793042434: New client connected from 172.18.0.1:55120 as mqttx_9f6ccc6c (p5, c1, k60).
+1793042798: Client mqttx_9f6ccc6c [172.18.0.1:55120] disconnected: exceeded timeout.
+1793043008: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793043190: New connection from 172.18.0.1:36998 on port 1883.
+1793043190: New client connected from 172.18.0.1:36998 as mqttx_9f6ccc6c (p5, c1, k60).
+1793043280: Client mqttx_9f6ccc6c [172.18.0.1:36998] disconnected: exceeded timeout.
+1793043337: New connection from 172.18.0.1:45998 on port 1883.
+1793043337: New client connected from 172.18.0.1:45998 as auto-2BA6D37C-E2AC-55F3-0C87-ED0F7E261B95 (p4, c1, k60).
+1793043343: New connection from 172.18.0.1:46008 on port 1883.
+1793043343: New client connected from 172.18.0.1:46008 as mqttx_9f6ccc6c (p5, c1, k60).
+1793043514: Client mqttx_9f6ccc6c [172.18.0.1:46008] disconnected: exceeded timeout.
+1793043944: New connection from 172.18.0.1:49226 on port 1883.
+1793043944: New client connected from 172.18.0.1:49226 as mqttx_9f6ccc6c (p5, c1, k60).
